@@ -43,11 +43,11 @@ p {
  background-color: rgba(238, 5, 5, 0.796);
 }
 .menu h2{
-    font-size:20px;
+    font-size:50px;
     text-decoration: underline;
 }
 .menu h3{
-    font-size: 30px;
+    font-size: 20px;
 }
 
 .menu_text{
@@ -100,4 +100,7 @@ p {
 
 .content_conc p{
     font-size: 40px;
+}
+.body_menu{
+    margin-top: 20px;
 }
