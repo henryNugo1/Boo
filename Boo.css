@@ -87,7 +87,6 @@ p {
     background-image: url('Boo/Images/boo1.jpg'); /* Replace 'human_background.jpg' with your image */
     object-fit: cover;
     background-position: center;
-    height: 100vh; /* Adjust the height as needed */
     width: 60%;
     display: flex;
     align-items: center;
