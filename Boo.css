@@ -1,0 +1,104 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #ff4d4d;
+    color: white;
+    text-align: center;
+    padding: 1em;
+}
+
+.main-section {
+    background-image: url('Boo/Images/Boo2.jpg'); /* Replace 'human_background.jpg' with your image */
+    object-fit: cover;
+    background-position: center;
+    height: 100vh; /* Adjust the height as needed */
+    width: 60%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.content {
+    background-color: rgba(255, 255, 255, 0.7); /* Semi-transparent white background */
+    padding: 20px;
+    border-radius: 10px;
+    height: 100vh;
+    text-align: center;
+}
+
+h2 {
+    color: #333;
+}
+
+p {
+    color: #555;
+}
+
+.menu{
+ display: flex;
+ background-color: rgba(238, 5, 5, 0.796);
+}
+.menu h2{
+    font-size: 50px;
+    text-decoration: underline;
+}
+.menu h3{
+    font-size: 30px;
+}
+
+.menu_text{
+    height: 100vh;
+    width: 40%;
+}
+
+.body_menu{
+    margin-top: 20px;
+    padding: 20px;
+}
+
+.bod{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.bod img{
+    width: 40%;
+    height: 320px;
+    object-fit: cover;
+}
+
+.bod span{
+    font-size: 20px;
+}
+
+.content_conc {
+    background-color: rgba(255, 255, 255, 0.7); /* Semi-transparent white background */
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.conc-section {
+    background-image: url('Boo/Images/boo1.jpg'); /* Replace 'human_background.jpg' with your image */
+    object-fit: cover;
+    background-position: center;
+    height: 100vh; /* Adjust the height as needed */
+    width: 60%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.content_conc h2{
+    font-size: 50px;
+    text-decoration: none;
+}
+
+.content_conc p{
+    font-size: 40px;
+}
